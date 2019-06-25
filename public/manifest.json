@@ -1,0 +1,14 @@
+{
+  "name": "Social Media Focus",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Removes social media stats such as number of likes, followers, and retweets.",
+  "icons": {
+    "16": "favicon-16x16.png",
+    "32": "favicon-32x32.png",
+    "192": "favicon-192x192.png",
+    "512": "favicon-512x512.png"
+  },
+  "author": "John Pham",
+  "permissions": ["storage"]
+}
